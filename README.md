@@ -8,9 +8,9 @@
 
 ```
 
-2023-11-24 スコア PR: https://github.com/yomek33/private-isu/pull/1<br>
+2023-11-24 スコア PR: https://github.com/yomek33/private-isu/pull/1 Closed<br>
 `{"pass":true,"score":32352,"success":29766,"fail":0,"messages":[]}`<br>
-2023-11-27 スコア PR: https://github.com/yomek33/private-isu/pull/2<br>
+2023-11-27 スコア PR: https://github.com/yomek33/private-isu/pull/2 Open<br>
 `{"pass":true,"score":33451,"success":30785,"fail":0,"messages":[]}`<br>
 
 <br>
