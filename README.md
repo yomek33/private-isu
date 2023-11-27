@@ -9,7 +9,10 @@
 ```
 
 2023-11-24 スコア PR: https://github.com/yomek33/private-isu/pull/1<br>
-`{"pass":true,"score":32352,"success":29766,"fail":0,"messages":[]}`
+`{"pass":true,"score":32352,"success":29766,"fail":0,"messages":[]}`<br>
+2023-11-27 スコア PR: https://github.com/yomek33/private-isu/pull/2<br>
+`{"pass":true,"score":33451,"success":30785,"fail":0,"messages":[]}`<br>
 
+<br>
 ホスト環境: macOS Ventura 13.2.1, Apple M2<br>
 実行方法: Docker Compose
